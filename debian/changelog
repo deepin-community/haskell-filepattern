@@ -1,0 +1,23 @@
+haskell-filepattern (0.1.2-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:19 +0800
+
+haskell-filepattern (0.1.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sat, 30 May 2020 15:48:50 -0400
+
+haskell-filepattern (0.1.1-2) unstable; urgency=medium
+
+  * Sourceful post-NEW upload
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Tue, 29 Oct 2019 13:26:05 +0200
+
+haskell-filepattern (0.1.1-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Clint Adams <clint@debian.org>  Wed, 31 Jul 2019 17:39:51 -0400
